@@ -141,7 +141,7 @@ public class MapView extends Page {
     public MapView recordingTrace()throws Throwable{
         START_RECORDING_BUTTON.click();
         STOP_RECORDING_BUTTON.click();
-        Thread.sleep(4000);
+        Thread.sleep(5000);
         return this;
 
     }
