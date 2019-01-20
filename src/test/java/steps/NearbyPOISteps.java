@@ -21,6 +21,8 @@ public class NearbyPOISteps {
     public void checkingIfAllElementsAreDisplayed() throws Throwable {
         new NearbyPOIView()
                 .checkingIfNearbyPoiListIsDisplayed()
+                .checkingIfPoiIconIsDisplayed()
+                .checkingIfPoiDistanceIsDisplayed()
                 .checkingIfAroundLocationIsDisplayed()
                 .checkingIfFilterIconIsDisplayed();
     }

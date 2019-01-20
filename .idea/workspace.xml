@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d7f8680-2874-4329-beb2-ef2c82e35094" name="Default" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -85,7 +88,7 @@
         <counts>
           <entry key="Cucumber" value="1206" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="8942" />
+          <entry key="JAVA" value="9040" />
           <entry key="PLAIN_TEXT" value="31" />
         </counts>
       </usages-collector>
@@ -102,15 +105,15 @@
           <entry key="Cucumber" value="28" />
           <entry key="Groovy" value="3" />
           <entry key="JAVA" value="85" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/Test1 Map.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -122,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -131,17 +134,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="132" column="23" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -493,18 +496,18 @@
         <option value="$PROJECT_DIR$/src/main/java/page/SettingsView.java" />
         <option value="$PROJECT_DIR$/src/main/java/page/AboutUsView.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/AboutUsSteps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java" />
         <option value="$PROJECT_DIR$/src/main/java/config/AndroidDriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/MapSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/page/MapView.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature" />
         <option value="$PROJECT_DIR$/src/test/java/features/Test1 Map.feature" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="385" />
     <option name="y" value="60" />
     <option name="width" value="1400" />
@@ -523,6 +526,17 @@
               <item name="miejski.bike" type="b2602c69:ProjectViewProjectNode" />
               <item name="miejski.bike" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="miejski.bike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miejski.bike" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miejski.bike" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miejski.bike" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -536,7 +550,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547978603594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547981136010" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Parallel execution miejski bike" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -560,7 +574,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.All Features in: test">
+  <component name="RunManager" selected="Cucumber java.Scenario: Nearby POI are displayed">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <method v="2">
@@ -597,14 +611,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: Test 2 NearbyPOI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: All the elements on BICYKLE PARKING POI are displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature" />
       <option name="GLUE" value="config steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="miejski.bike" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: Test 2 NearbyPOI" />
+      <option name="NAME_FILTER" value="^All the elements on BICYKLE PARKING POI are displayed$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^All the elements on BICYKLE PARKING POI are displayed$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: All the elements on BICYKLE PARKING POI are displayed" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -634,15 +649,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Checking if empty POI list message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Nearby POI are displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Test1 Map.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature" />
       <option name="GLUE" value="config steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="miejski.bike" />
-      <option name="NAME_FILTER" value="^Checking if empty POI list message is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Checking if empty POI list message is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Checking if empty POI list message is displayed" />
+      <option name="NAME_FILTER" value="^Nearby POI are displayed$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Nearby POI are displayed$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Nearby POI are displayed" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -697,19 +712,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: Test 2 NearbyPOI" />
       <item itemvalue="Cucumber java.Scenario: All the elements on IBOMBO POI are displayed" />
-      <item itemvalue="Cucumber java.Scenario: Checking if empty POI list message is displayed" />
       <item itemvalue="Cucumber java.Scenario: User can see empty POI list screen" />
       <item itemvalue="Cucumber java.All Features in: test" />
+      <item itemvalue="Cucumber java.Scenario: All the elements on BICYKLE PARKING POI are displayed" />
+      <item itemvalue="Cucumber java.Scenario: Nearby POI are displayed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.All Features in: test" />
-        <item itemvalue="Cucumber java.Feature: Test 2 NearbyPOI" />
+        <item itemvalue="Cucumber java.Scenario: Nearby POI are displayed" />
+        <item itemvalue="Cucumber java.Scenario: All the elements on BICYKLE PARKING POI are displayed" />
         <item itemvalue="Cucumber java.Scenario: User can see empty POI list screen" />
         <item itemvalue="Cucumber java.Scenario: All the elements on IBOMBO POI are displayed" />
-        <item itemvalue="Cucumber java.Scenario: Checking if empty POI list message is displayed" />
+        <item itemvalue="Cucumber java.All Features in: test" />
       </list>
     </recent_temporary>
   </component>
@@ -735,35 +750,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Checking_if_empty_POI_list_message_is_displayed - 2019.01.16 at 17h 55m 51s.xml">
-      <configuration name="Scenario: Checking if empty POI list message is displayed" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.16 at 18h 16m 14s.xml">
-      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.16 at 18h 16m 51s.xml">
-      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.16 at 18h 17m 46s.xml">
-      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_see_empty_POI_list_screen - 2019.01.16 at 18h 18m 16s.xml">
-      <configuration name="Scenario: User can see empty POI list screen" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Test_2_NearbyPOI - 2019.01.16 at 18h 19m 23s.xml">
-      <configuration name="Feature: Test 2 NearbyPOI" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Test_2_NearbyPOI - 2019.01.16 at 18h 21m 55s.xml">
-      <configuration name="Feature: Test 2 NearbyPOI" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__Test_2_NearbyPOI - 2019.01.16 at 18h 57m 44s.xml">
-      <configuration name="Feature: Test 2 NearbyPOI" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__Test_2_NearbyPOI - 2019.01.16 at 19h 01m 20s.xml">
       <configuration name="Feature: Test 2 NearbyPOI" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="All_Features_in__test - 2019.01.16 at 19h 09m 37s.xml">
       <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.20 at 11h 29m 58s.xml">
+      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.20 at 11h 31m 06s.xml">
+      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.20 at 11h 31m 34s.xml">
+      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.20 at 11h 32m 04s.xml">
+      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_IBOMBO_POI_are_displayed - 2019.01.20 at 11h 32m 47s.xml">
+      <configuration name="Scenario: All the elements on IBOMBO POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_see_empty_POI_list_screen - 2019.01.20 at 11h 33m 17s.xml">
+      <configuration name="Scenario: User can see empty POI list screen" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_BICYKLE_PARKING_POI_are_displayed - 2019.01.20 at 11h 34m 33s.xml">
+      <configuration name="Scenario: All the elements on BICYKLE PARKING POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__All_the_elements_on_BICYKLE_PARKING_POI_are_displayed - 2019.01.20 at 11h 35m 03s.xml">
+      <configuration name="Scenario: All the elements on BICYKLE PARKING POI are displayed" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -776,7 +791,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35234898" />
       <window_info id="Structure" order="1" weight="0.24966443" />
@@ -788,13 +804,13 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.32907802" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49731544" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49731544" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026846" side_tool="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49932885" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
@@ -986,27 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="132" column="23" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/page/MapView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2482">
@@ -1024,10 +1019,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1035,6 +1033,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/page/NearbyPOIView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/NearbyPOISteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/Test 2 NearbyPOI.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>

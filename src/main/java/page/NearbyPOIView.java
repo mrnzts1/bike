@@ -19,6 +19,12 @@ public class NearbyPOIView extends Page {
     @AndroidFindBy(id = "poiListData")
     protected MobileElement NEARBY_POI_LIST;
 
+    @AndroidFindBy(id = "poiItemDistance")
+    protected MobileElement POI_DISTANCE;
+
+    @AndroidFindBy(id = "poiItemIcon")
+    protected MobileElement POI_ICON;
+
     @AndroidFindBy(id = "menu_filter")
     protected MobileElement FILTER;
 
@@ -79,6 +85,14 @@ public class NearbyPOIView extends Page {
     }
     public NearbyPOIView checkingIfNearbyPoiListIsDisplayed(){
         assertTrue(NEARBY_POI_LIST.isDisplayed());
+        return this;
+    }
+    public NearbyPOIView checkingIfPoiIconIsDisplayed(){
+        assertTrue(POI_ICON.isDisplayed());
+        return this;
+    }
+    public NearbyPOIView checkingIfPoiDistanceIsDisplayed(){
+        assertTrue(POI_DISTANCE.isDisplayed());
         return this;
     }
     public NearbyPOIView checkingIfAroundLocationIsDisplayed(){
