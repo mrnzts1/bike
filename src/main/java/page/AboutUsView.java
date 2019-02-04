@@ -62,7 +62,7 @@ public class AboutUsView extends Page {
     public AboutUsView checkingMariuszIsDisplayed() throws MalformedURLException{
 
         TouchAction action = new TouchAction((getDriver()));
-        action.press(WOJCIECH).moveTo(MIEJSKI_BIKE_HEADER).perform();
+//        action.press(WOJCIECH).moveTo(MIEJSKI_BIKE_HEADER).perform();
         assertTrue(MARIUSZ.isDisplayed());
         return this;
     }

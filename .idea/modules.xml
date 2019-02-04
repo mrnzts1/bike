@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/miejski.bike.iml" filepath="$PROJECT_DIR$/.idea/modules/miejski.bike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/miejski.bike_main.iml" filepath="$PROJECT_DIR$/.idea/modules/miejski.bike_main.iml" group="miejski.bike" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/miejski.bike_test.iml" filepath="$PROJECT_DIR$/.idea/modules/miejski.bike_test.iml" group="miejski.bike" />
     </modules>
   </component>
 </project>
