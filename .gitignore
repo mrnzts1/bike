@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/gradle,intellij+iml
 # Edit at https://www.gitignore.io/?templates=gradle,intellij+iml
@@ -98,3 +99,7 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/gradle,intellij+iml
+=======
+.idea/
+.idea/workspace.xml
+>>>>>>> 9f5d43661502a5e51d007389c861137ebeec6aea
